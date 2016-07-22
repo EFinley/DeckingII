@@ -1,6 +1,7 @@
 {
   "images/BlueLine.png": "images/BlueLine-dd23a076d5.png",
   "images/GreenLine.png": "images/GreenLine-f32de46aae.png",
+  "images/HackpageBackground.jpg": "images/HackpageBackground-47d29c7873.jpg",
   "images/NorseMapStill.jpg": "images/NorseMapStill-ce4da62a89.jpg",
   "images/OrangeLine.png": "images/OrangeLine-76585dc9bc.png",
   "images/RedLine.png": "images/RedLine-14881e9528.png",
@@ -31,15 +32,18 @@
   "images/SR_UI_topleft.png": "images/SR_UI_topleft-2891b5c6b8.png",
   "images/SR_UI_topright.png": "images/SR_UI_topright-50a823fb71.png",
   "images/YellowLine.png": "images/YellowLine-b7f14e40db.png",
+  "images/iAtroposLogo_v1.png": "images/iAtroposLogo_v1-86bc5f76af.png",
+  "images/iAtropos_Sword_Ad_v1.jpg": "images/iAtropos_Sword_Ad_v1-6c1c1d9cc7.jpg",
   "images/logoSpinnerRed.jpg": "images/logoSpinnerRed-257725a2c2.jpg",
   "images/logoSpinnerWhite.jpg": "images/logoSpinnerWhite-93839c5c87.jpg",
+  "images/lowResBackground.jpg": "images/lowResBackground-bce80b139e.jpg",
   "images/ono-sendai-logo.jpg": "images/ono-sendai-logo-f60d9e9074.jpg",
   "images/ono-sendai-logo_sm.jpg": "images/ono-sendai-logo_sm-9c2ab0e273.jpg",
   "images/onosendai_1x.png": "images/onosendai_1x-0e9bbb4eb4.png",
   "images/splashscreen.png": "images/splashscreen-d413609c16.png",
   "images/toolbutton.png": "images/toolbutton-29202f3367.png",
   "images/toolbutton_knob.png": "images/toolbutton_knob-714d887218.png",
-  "javascript\\onosendai.js": "javascript\\onosendai-c927883d88ca45ba9c24.js",
-  "javascript\\onosendai.loader.js": "javascript\\onosendai.loader-c927883d88ca45ba9c24.js",
-  "stylesheets/onosendai.css": "stylesheets/onosendai-146bf0e7e6.css"
+  "javascript\\onosendai.js": "javascript\\onosendai-645a693a53583e74e793.js",
+  "javascript\\onosendai.loader.js": "javascript\\onosendai.loader-645a693a53583e74e793.js",
+  "stylesheets/onosendai.css": "stylesheets/onosendai-879ae860e4.css"
 }
