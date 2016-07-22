@@ -39,7 +39,7 @@
   "images/splashscreen.png": "images/splashscreen-d413609c16.png",
   "images/toolbutton.png": "images/toolbutton-29202f3367.png",
   "images/toolbutton_knob.png": "images/toolbutton_knob-714d887218.png",
-  "javascript\\loader.js": "javascript\\loader-3db47785da21dbbb3ebe.js",
-  "javascript\\main.js": "javascript\\main-3db47785da21dbbb3ebe.js",
+  "javascript\\onosendai.js": "javascript\\onosendai-c927883d88ca45ba9c24.js",
+  "javascript\\onosendai.loader.js": "javascript\\onosendai.loader-c927883d88ca45ba9c24.js",
   "stylesheets/onosendai.css": "stylesheets/onosendai-146bf0e7e6.css"
 }
