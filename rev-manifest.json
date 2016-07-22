@@ -43,7 +43,9 @@
   "images/splashscreen.png": "images/splashscreen-d413609c16.png",
   "images/toolbutton.png": "images/toolbutton-29202f3367.png",
   "images/toolbutton_knob.png": "images/toolbutton_knob-714d887218.png",
-  "javascript\\onosendai.js": "javascript\\onosendai-645a693a53583e74e793.js",
-  "javascript\\onosendai.loader.js": "javascript\\onosendai.loader-645a693a53583e74e793.js",
+  "images/welcome_page_html_3809337.gif": "images/welcome_page_html_3809337-759acbf487.gif",
+  "images/welcome_page_html_55f7e580.png": "images/welcome_page_html_55f7e580-86bc5f76af.png",
+  "javascript\\onosendai.js": "javascript\\onosendai-48dcbab48a497ad7d0e3.js",
+  "javascript\\onosendai.loader.js": "javascript\\onosendai.loader-48dcbab48a497ad7d0e3.js",
   "stylesheets/onosendai.css": "stylesheets/onosendai-879ae860e4.css"
 }
